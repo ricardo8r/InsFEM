@@ -25,7 +25,7 @@ https://www.hdfgroup.org/package/hdf5-1-12-0-tar/?wpdmdl=14581&refresh=5f19d2bd3
 **CONDA or MINICONDA**:
 We recommend making your own conda environment for insFEM,
 
-conda create --name inspirafem
+conda create --name insfem
 
 Locate the directory for the conda environment in your terminal window. 
 Enter that directory and create these subdirectories and files: 
