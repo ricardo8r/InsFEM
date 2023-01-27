@@ -1,11 +1,11 @@
 # InsFEM
-Welcome to the world of data analysis and problem reduction by means of revolutionary techniques and code!
+Welcome to the world of computational mechanics!
 
 ## INSTALL
-Currently InspiraFEM uses the following compilers:
+Currently InsFEM uses the following compilers:
 GCC-9.0
 
-Currently InspiraFEM uses the following packages:
+Currently InsFEM uses the following packages:
 
 **MPICH**:
 http://www.mpich.org/static/downloads/3.3.2/mpich-3.3.2.tar.gz
@@ -23,7 +23,7 @@ https://www.vtk.org/files/release/9.0/VTK-9.0.1.tar.gz
 https://www.hdfgroup.org/package/hdf5-1-12-0-tar/?wpdmdl=14581&refresh=5f19d2bd301851595527869
 
 **CONDA or MINICONDA**:
-We recommend making your own conda environment for InspiraFEM,
+We recommend making your own conda environment for InsFEM,
 
 conda create --name inspirafem
 
@@ -53,7 +53,7 @@ You will additionally need the following Perl libraries that can be installed wi
 You may need to be sudo for the prevous installations.
 
 
-After all of this is installed git clone into the InspiraFEM repository and execute
+After all of this is installed git clone into the InsFEM repository and execute
 
 make (which will implicitly make config, debug,release and test, you can execute each of this separately)
 
